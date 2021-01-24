@@ -1,0 +1,31 @@
+.menu{
+background-color: rgb(251, 255, 0);
+    display:flex;
+justify-content:space-evenly
+
+}
+.grid{
+    margin: 25px;
+    display:flex
+    
+ 
+}
+.origami{
+border-radius: 20px;
+padding: 30px;
+margin: 25px;
+background-color: white;
+width: 310px;
+font-family: fantasy;
+}
+body{
+margin: 0px;
+background-color: #ff0062;
+}
+.header{
+background-color: #00f3df;
+
+}
+.origami{
+    background-color: rgb(115, 255, 0);
+}
